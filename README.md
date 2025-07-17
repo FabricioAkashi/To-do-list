@@ -4,10 +4,10 @@ Simples projeto de to-do list para organização de tarefas desenvolvido em **Ja
 
 ## 📌 Funcionalidades
 
--Adiciona tarefas em uma tabela.
--Remove as tarefas adicionadas com o botão "Delete".
--Altera tarefas adicionas com o botão "Update".
--Mostra notificações para todas as alterações.
+- Adiciona tarefas em uma tabela.
+- Remove as tarefas adicionadas com o botão "Delete".
+- Altera tarefas adicionas com o botão "Update".
+- Mostra notificações para todas as alterações.
 
 ## 💻 Tecnologias
 
